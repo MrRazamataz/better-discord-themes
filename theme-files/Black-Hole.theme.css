@@ -1,5 +1,5 @@
 /**
- * @name         Black Hole
+ * @name         Black Hole MrRazamataz Edition
  * @description  Jump into space with this theme. It's just a bedazzled base Discord theme
  * @author       MonsterDev
  * @version      1.0
@@ -9,8 +9,18 @@
  * @authorId     402272736665272320
  */
 
-@import "https://monstrousdev.github.io/themes/black-hole/style.css";
-
+@import "https://raw.githubusercontent.com/MrRazamataz/better-discord-themes/master/black-hole/style.css";
+.container-3w7J-x {
+background-color: transparent;
+}
+/* KC Discord */
+[src="https://cdn.discordapp.com/icons/811203761619337259/0564a75bda132490421a8d4cccb0ea1c.webp?size=128"] { content: url('https://nyri4.github.io/Comfy/assets/bonfire.png');}
+[src="https://cdn.discordapp.com/icons/811203761619337259/0564a75bda132490421a8d4cccb0ea1c.webp?size=128"]:hover { content: url('https://nyri4.github.io/Comfy/assets/bonfire.gif');}
+[href="/channels/616334515492618264/743530164041809932"] > div > svg > path { d: path("M8 17v-6h4v6h5V9h3L10 0 0 9h3v8z"); transform: scale(1.2);}
+[href="/channels/616334515492618264/805737859881369650"] > div > svg > path { d: path("M22 12L12.101 2.10101L10.686 3.51401L12.101 4.92901L7.15096 9.87801V9.88001L5.73596 8.46501L4.32196 9.88001L8.56496 14.122L2.90796 19.778L4.32196 21.192L9.97896 15.536L14.222 19.778L15.636 18.364L14.222 16.95L19.171 12H19.172L20.586 13.414L22 12Z");}
+[href="/channels/616334515492618264/808831397674352651"] > div > svg > path { d: path("m16 7.6c0 .79-1.28 1.38-1.52 2.09s.44 2 0 2.59-1.84.35-2.46.8-.79 1.84-1.54 2.09-1.67-.8-2.47-.8-1.75 1-2.47.8-.92-1.64-1.54-2.09-2-.18-2.46-.8.23-1.84 0-2.59-1.54-1.3-1.54-2.09 1.28-1.38 1.52-2.09-.44-2 0-2.59 1.85-.35 2.48-.8.78-1.84 1.53-2.12 1.67.83 2.47.83 1.75-1 2.47-.8.91 1.64 1.53 2.09 2 .18 2.46.8-.23 1.84 0 2.59 1.54 1.3 1.54 2.09z");transform: scale(1.5);}
+[href="/channels/616334515492618264/715133838166196285"] > div > svg > path { d: path("M4.79805 3C3.80445 3 2.99805 3.8055 2.99805 4.8V15.6C2.99805 16.5936 3.80445 17.4 4.79805 17.4H7.49805V21L11.098 17.4H19.198C20.1925 17.4 20.998 16.5936 20.998 15.6V4.8C20.998 3.8055 20.1925 3 19.198 3H4.79805Z");transform: scale(1.1);}
+[href="/channels/616334515492618264/699186476922961990"] > div > svg > path { d: path("M15,15H3V13H15Zm0-4H3V9H15Zm0-4H3V5H15ZM0,20l1.5-1.5L3,20l1.5-1.5L6,20l1.5-1.5L9,20l1.5-1.5L12,20l1.5-1.5L15,20l1.5-1.5L18,20V0L16.5,1.5,15,0,13.5,1.5,12,0,10.5,1.5,9,0,7.5,1.5,6,0,4.5,1.5,3,0,1.5,1.5,0,0Z");transform: translate(3.5px, 2px);}
 /*
                                                                                                      
 ✧･ﾟ: *✧･ﾟ:* 　　 *:･ﾟ✧*:･ﾟ✧     ✧･ﾟ: *✧･ﾟ:* 　　 *:･ﾟ✧*:･ﾟ✧     ✧･ﾟ: *✧･ﾟ:* 　　 *:･ﾟ✧*:･ﾟ✧
