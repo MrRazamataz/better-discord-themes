@@ -32,7 +32,7 @@
 
 /* *•̩̩͙⊱••••••••••••✩ VARIABLES ✩••••̩̩͙⊰•••••••••** */
 :root {
-	--theme-name: "Black Hole";
+	--theme-name: "Black Hole MrRazamataz Edition";
   --theme-version: "1.5";
   --blurple: rgb(113, 136, 217);
   --greyple: rgb(151, 168, 180);
@@ -419,7 +419,7 @@ a.selected-aXhQR6 .layout-2DM8Md, a.channel-2QD9_O:hover,
   display: none;
 }
 
-.container-2td-dC .wrapper-2lTRaf,
+.container-2td-dC .wrapper-3NnKdC,
 .scroller-2TZvBN {
   background-color: transparent !important;
 }
@@ -544,12 +544,12 @@ a.selected-aXhQR6 .layout-2DM8Md, a.channel-2QD9_O:hover,
 }
 
   /* C. Guild Folders */
-#app-mount .expandedFolderBackground-2sPsd-, 
-#app-mount .folder-21wGz3 {
+#app-mount .expandedFolderBackground-1cujaW-, 
+#app-mount .folder-1hbNCn {
   background-color: transparent;
 }
 
-#app-mount .expandedFolderBackground-2sPsd-::before {
+#app-mount .expandedFolderBackground-1cujaW-::before {
   content: "";
   position: absolute;
   top: 0;
